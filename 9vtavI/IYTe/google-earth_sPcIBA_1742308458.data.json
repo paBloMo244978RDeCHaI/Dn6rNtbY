@@ -31,7 +31,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iSpring/WebGlobe/issues"
-  },
   "homepage": "https://github.com/iSpring/WebGlobe#readme",
   "devDependencies": {
     "@types/es6-promise": "0.0.32",
