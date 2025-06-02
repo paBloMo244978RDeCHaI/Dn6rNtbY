@@ -1219,7 +1219,6 @@ dependencies = [
  "gdk-sys",
  "gio",
  "glib",
- "libc",
  "pango",
 ]
 
